@@ -1,1 +1,1 @@
-# machine_learning_tutorial
+# Machine Learning Tutorial
